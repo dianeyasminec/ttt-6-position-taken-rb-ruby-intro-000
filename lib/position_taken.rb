@@ -1,4 +1,4 @@
-def position_taken (board=[],index=0)
+def position_taken (board,index)
   if board[index]== " "
     return false
   end
