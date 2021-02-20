@@ -1,7 +1,7 @@
-def position_taken (board,index)
+def position_taken (board=[],index=0)
   if board[index]== " "
     return false
   end
 end
 board=[1,"",2,4]
-position_taken(board,3)
+position_taken
