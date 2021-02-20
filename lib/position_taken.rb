@@ -4,4 +4,4 @@ def position_taken? (board=[],index=0)
   end
 end
 board=[1,"",2,4]
-position_taken
+position_taken?
